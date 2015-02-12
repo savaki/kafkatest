@@ -45,6 +45,7 @@ The fig.yml references two containers:
 * Docker 1.5.0
 * Zookeeper 3.4.6
 * Kafka 0.8.2.0
+* Oracle Java 8
 * All tests executed within docker container running within Virtualbox
 * No kernel tuning parameters applied
 * Default ulimits
