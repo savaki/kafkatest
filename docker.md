@@ -50,6 +50,7 @@ The fig.yml references two containers:
 ### Tuned Kafka 
 
 * ~670% improvement in consumer performance over default settings
+* 95% reduction in latency (5,465ms avg to 233ms)
 
 ```
 LOG> 08:11:06.287990 kafkatest.go:131: done publishing in 10.845130344s , 147531.65238674977 msgs/sec
